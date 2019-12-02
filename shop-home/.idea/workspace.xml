@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="shop-web-8080:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b91b8edd-d8c1-4a3c-bcdc-06a65cfa9d12" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/shop-common/target/" />
+    <ignored path="$PROJECT_DIR$/shop-web-8080/target/" />
+    <ignored path="$PROJECT_DIR$/shop-product-api/target/" />
+    <ignored path="$PROJECT_DIR$/shop-type-api/target/" />
+    <ignored path="$PROJECT_DIR$/shop-brand-api/target/" />
+    <ignored path="$PROJECT_DIR$/shop-login-api/target/" />
+    <ignored path="$PROJECT_DIR$/shop-carts-api/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/shop_home$Shop_Type_8092.ic" NAME="Shop-Type-8092 Coverage Results" MODIFIED="1574332044200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-675253349">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+          <entry key="properties" value="8" />
+          <entry key="xml" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+          <entry key="Properties" value="8" />
+          <entry key="XML" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="9" />
+          <entry key="properties" value="24" />
+          <entry key="xml" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="9" />
+          <entry key="Properties" value="24" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="list.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shop-web-8080/src/main/webapp/list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="91" column="18" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ids</find>
+      <find>queryByPid</find>
+      <find>zset</find>
+      <find>spring-boot-starter-data-redis</find>
+      <find>org.springframework.boot</find>
+      <find>set</find>
+      <find>ex</find>
+      <find>queryTypeByPid</find>
+      <find>brandRightShow</find>
+      <find>onclickTypeOrBrand</find>
+      <find>sendMessage1</find>
+      <find>sessionStorage</find>
+      <find>token</find>
+      <find>addCarts</find>
+      <find>mark</find>
+      <find>son_check</find>
+      <find>checkedProduct</find>
+      <find>all</find>
+      <find>移除</find>
+      <find>delBtn</find>
+      <find>whole_check</find>
+      <find>carts.js</find>
+      <find>$all_sum</find>
+      <find>sum</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/shop-product-api/src/main/resources/mapper/BrandMapper.xml" />
+        <option value="$PROJECT_DIR$/shop-product-api/src/main/java/com/fh/param/ProductSearchParam.java" />
+        <option value="$PROJECT_DIR$/shop-product-api/src/main/java/com/fh/vo/product/ProductVo.java" />
+        <option value="$PROJECT_DIR$/shop-product-api/src/main/java/com/fh/mapper/product/IProductMapper.java" />
+        <option value="$PROJECT_DIR$/shop-product-api/src/main/resources/mapper/productMapper.xml" />
+        <option value="$PROJECT_DIR$/shop-login-api/src/test/java/com/fh/ShopLoginApiApplicationTests.java" />
+        <option value="$PROJECT_DIR$/shop-common/src/main/java/com/fh/common/ServerResponse.java" />
+        <option value="$PROJECT_DIR$/shop-common/src/main/java/com/fh/utils/MobileMessageSend.java" />
+        <option value="$PROJECT_DIR$/shop-login-api/src/main/java/com/fh/mapper/ILoginMapper.java" />
+        <option value="$PROJECT_DIR$/shop-login-api/src/main/java/com/fh/biz/ILoginService.java" />
+        <option value="$PROJECT_DIR$/shop-web-8080/src/main/webapp/js/css/style.css" />
+        <option value="$PROJECT_DIR$/shop-type-api/src/main/java/com/fh/biz/type/ITypeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/shop-login-api/src/main/java/com/fh/po/User.java" />
+        <option value="$PROJECT_DIR$/shop-product-api/src/main/java/com/fh/po/prodict/Product.java" />
+        <option value="$PROJECT_DIR$/../shop-1904B 27号/shop-web/src/main/webapp/login/index.html" />
+        <option value="$PROJECT_DIR$/shop-web-8080/src/main/webapp/login/index.html" />
+        <option value="$PROJECT_DIR$/shop-common/src/main/java/com/fh/login/LoginAnnotatin.java" />
+        <option value="$PROJECT_DIR$/shop-common/src/main/java/com/fh/exception/AuthenticateException.java" />
+        <option value="$PROJECT_DIR$/shop-carts-api/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-carts-api/src/test/java/com/fh/ShopCartsApiApplicationTests.java" />
+        <option value="$PROJECT_DIR$/shop-common/src/main/java/com/fh/utils/SystemConstant.java" />
+        <option value="$PROJECT_DIR$/shop-carts-api/src/main/java/com/fh/ShopCartsApiApplication.java" />
+        <option value="$PROJECT_DIR$/../HttpclientUtils.java" />
+        <option value="$PROJECT_DIR$/shop-common/src/main/java/com/fh/utils/HttpclientUtils.java" />
+        <option value="$PROJECT_DIR$/shop-common/src/main/java/com/fh/common/ResponseEnum.java" />
+        <option value="$PROJECT_DIR$/shop-product-api/src/main/java/com/fh/controller/product/ProductController.java" />
+        <option value="$PROJECT_DIR$/shop-product-api/src/main/java/com/fh/biz/product/IProductService.java" />
+        <option value="$PROJECT_DIR$/shop-product-api/src/main/java/com/fh/biz/product/IProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/shop-login-api/src/main/java/com/fh/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/shop-login-api/src/main/java/com/fh/biz/ILoginServiceImpl.java" />
+        <option value="$PROJECT_DIR$/shop-common/src/main/java/com/fh/login/LoginAuthorization.java" />
+        <option value="$PROJECT_DIR$/shop-common/src/main/java/com/fh/utils/JwtUtils.java" />
+        <option value="$PROJECT_DIR$/shop-carts-api/src/main/java/com/fh/biz/ICartService.java" />
+        <option value="$PROJECT_DIR$/shop-carts-api/src/main/java/com/fh/biz/ICartServiceImpl.java" />
+        <option value="$PROJECT_DIR$/shop-web-8080/src/main/webapp/carts/js/carts.js" />
+        <option value="$PROJECT_DIR$/shop-web-8080/src/main/webapp/carts/carts.html" />
+        <option value="$PROJECT_DIR$/shop-carts-api/src/main/java/com/fh/controller/CartController.java" />
+        <option value="$PROJECT_DIR$/shop-carts-api/src/main/java/com/fh/po/Cart.java" />
+        <option value="$PROJECT_DIR$/shop-login-api/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-type-api/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-common/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-brand-api/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-product-api/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-carts-api/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/shop-login-api/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/shop-product-api/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/shop-type-api/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/shop-brand-api/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/shop-brand-api/src/main/java/com/fh/po/brand/Brand.java" />
+        <option value="$PROJECT_DIR$/shop-brand-api/src/main/java/com/fh/vo/BrandVo.java" />
+        <option value="$PROJECT_DIR$/shop-web-8080/src/main/webapp/list.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/第五个月/maven/apache-maven-3.1.1" />
+        <option name="userSettingsFile" value="D:\第五个月\maven\apache-maven-3.1.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1385" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-brand-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-brand-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-brand-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-brand-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-brand-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-brand-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fh" type="462c0819:PsiDirectoryNode" />
+              <item name="brand" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-brand-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fh" type="462c0819:PsiDirectoryNode" />
+              <item name="vo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-brand-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-carts-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-carts-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-carts-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-carts-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-login-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-login-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-login-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-login-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-product-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-product-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-product-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-product-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-product-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-product-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fh" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-product-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-type-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-type-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-type-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-type-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-web-8080" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-web-8080" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-web-8080" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-web-8080" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-web-8080" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="carts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shop-home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shop-web-8080" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="carts" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575185239022" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/shop-product-api/src/main/java/com/fh" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.30229884" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.fh.biz" />
+      <recent name="com.fh.biz.redis" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fh.po.prodict" />
+      <recent name="com.fh.vo.product" />
+      <recent name="com.fh.po.type" />
+      <recent name="com.fh.po.brand" />
+      <recent name="com.fh.po" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\emp\shop-home\shop-web-8080\src\main\webapp\carts" />
+      <recent name="D:\emp\shop-home\shop-web-8080\src\main\webapp" />
+      <recent name="D:\emp\shop-home\shop-common\src\main\java\com\fh\utils" />
+      <recent name="D:\emp\shop-home\shop-common\src\main\java\com\fh\controller" />
+      <recent name="D:\emp\shop-home\shop-common\src\main\java\com\fh\exception" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Shop-Brand-8090">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Shop-Brand-8090" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-brand-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fh.ShopBrandApiApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="Shop-Product-8091" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-product-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fh.ShopProductApiApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="Shop-Type-8092" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-type-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fh.ShopTypeApiApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="shop-carts-8094" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-carts-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fh.ShopCartsApiApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="shop-login-8093" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-login-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fh.ShopLoginApiApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shop-web-8080" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.52" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="shop-web-8080:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_shop-home_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57145" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="shop-web-8080:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.shop-carts-8094" />
+      <item itemvalue="Spring Boot.shop-login-8093" />
+      <item itemvalue="Spring Boot.Shop-Product-8091" />
+      <item itemvalue="Spring Boot.Shop-Type-8092" />
+      <item itemvalue="Spring Boot.Shop-Brand-8090" />
+      <item itemvalue="Tomcat Server.shop-web-8080" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b91b8edd-d8c1-4a3c-bcdc-06a65cfa9d12" name="Default" comment="" />
+      <created>1574318592132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574318592132</updated>
+      <workItem from="1574318594847" duration="3954000" />
+      <workItem from="1574322603152" duration="610000" />
+      <workItem from="1574323235321" duration="7203000" />
+      <workItem from="1574333441357" duration="164000" />
+      <workItem from="1574333612228" duration="15149000" />
+      <workItem from="1574516860206" duration="11965000" />
+      <workItem from="1574595518359" duration="1095000" />
+      <workItem from="1574597603764" duration="5711000" />
+      <workItem from="1574643755035" duration="2858000" />
+      <workItem from="1574661459525" duration="3728000" />
+      <workItem from="1574665312231" duration="39890000" />
+      <workItem from="1574780844606" duration="5511000" />
+      <workItem from="1574825338175" duration="5029000" />
+      <workItem from="1574834302426" duration="33376000" />
+      <workItem from="1574930056158" duration="16625000" />
+      <workItem from="1575101684703" duration="28437000" />
+      <workItem from="1575175656953" duration="2464000" />
+      <workItem from="1575182138985" duration="227000" />
+      <workItem from="1575182420369" duration="173000" />
+      <workItem from="1575182642033" duration="2151000" />
+      <workItem from="1575185479776" duration="2156000" />
+      <workItem from="1575198937666" duration="4483000" />
+      <workItem from="1575248469145" duration="1173000" />
+      <workItem from="1575256992200" duration="2308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ShopProductApiApplicationTests_contextLoads - 2019.11.25 at 09h 03m 25s.xml">
+      <configuration name="ShopProductApiApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopProductApiApplicationTests_contextLoads - 2019.11.25 at 09h 04m 01s.xml">
+      <configuration name="ShopProductApiApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopProductApiApplicationTests_contextLoads - 2019.11.25 at 09h 04m 36s.xml">
+      <configuration name="ShopProductApiApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopProductApiApplicationTests_contextLoads - 2019.11.25 at 09h 15m 42s.xml">
+      <configuration name="ShopProductApiApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopProductApiApplicationTests_contextLoads - 2019.11.25 at 11h 45m 25s.xml">
+      <configuration name="ShopProductApiApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="196440000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.22824427" side_tool="true" weight="0.4219178" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.32905984" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.27144772" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="JSF" order="9" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8532172" weight="0.4041096" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.27635327" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32905984" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.77175575" weight="0.26837608" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32905984" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32905984" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49464667" visible="true" weight="0.23458445" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.3297587" />
+      <window_info id="Web" order="6" sideWeight="0.50535333" side_tool="true" weight="0.21179625" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" sideWeight="0.5030426" side_tool="true" weight="0.1997319" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.26027396" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.32905984" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32905984" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.77175575" weight="0.26837608" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="JSF" order="9" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5030426" side_tool="true" weight="0.1997319" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32905984" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.22824427" side_tool="true" weight="0.4219178" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.26027396" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.27635327" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32905984" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.27144772" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49464667" visible="true" weight="0.22788204" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="6" sideWeight="0.50535333" side_tool="true" weight="0.21179625" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.3297587" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8532172" weight="0.4041096" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.5.RELEASE/spring-data-redis-2.1.5.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class</url>
+          <line>814</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/shop-common/src/main/java/com/fh/exception/AuthenticateException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/TimeUnit.java" />
+    <entry file="file://$PROJECT_DIR$/shop-common/src/main/java/com/fh/controller/GlobalExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-common/src/main/java/com/fh/login/LoginAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-common/src/main/java/com/fh/utils/SystemConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-web-8080/src/main/webapp/login/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1898">
+          <caret line="170" column="37" lean-forward="true" selection-start-line="170" selection-start-column="37" selection-end-line="170" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.5.RELEASE/spring-aop-5.1.5.RELEASE.jar!/org/springframework/aop/aspectj/AbstractAspectJAdvice.class" />
+    <entry file="file://$PROJECT_DIR$/shop-product-api/src/main/java/com/fh/ShopProductApiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-carts-api/src/main/java/com/fh/ShopCartsApiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop-/shop-web/src/main/webapp/index.html" />
+    <entry file="file://$PROJECT_DIR$/../HttpclientUtils.java" />
+    <entry file="file://$PROJECT_DIR$/shop-common/src/main/java/com/fh/common/ResponseEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12996" column="4" selection-start-line="12996" selection-start-column="4" selection-end-line="12996" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../shop-/shop-web/src/main/webapp/login/index.html" />
+    <entry file="file://$PROJECT_DIR$/../shop-/shop-login/src/main/java/com/fh/controller/LoginController.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/Map.java" />
+    <entry file="file://$PROJECT_DIR$/../shop-/shop-cart/src/main/java/com/fh/service/impl/CartServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/shop-login-api/src/main/java/com/fh/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="70" column="14" selection-start-line="70" selection-start-column="14" selection-end-line="70" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.5.RELEASE/spring-core-5.1.5.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class" />
+    <entry file="file://$PROJECT_DIR$/shop-login-api/src/main/java/com/fh/biz/ILoginServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="28" column="57" lean-forward="true" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-product-api/src/main/java/com/fh/biz/product/IProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.5.RELEASE/spring-webmvc-5.1.5.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.class" />
+    <entry file="file://$PROJECT_DIR$/shop-product-api/src/main/java/com/fh/controller/product/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-product-api/src/main/java/com/fh/biz/product/IProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-common/src/main/java/com/fh/utils/JwtUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-common/src/main/java/com/fh/login/LoginAuthorization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.5.RELEASE/spring-data-redis-2.1.5.RELEASE.jar!/org/springframework/data/redis/core/HashOperations.class" />
+    <entry file="file://$PROJECT_DIR$/shop-web-8080/src/main/webapp/carts/js/carts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2951">
+          <caret line="129" column="16" selection-start-line="129" selection-start-column="8" selection-end-line="129" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-login-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-type-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-web-8080/src/main/webapp/carts/carts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6723">
+          <caret line="249" selection-start-line="249" selection-end-line="249" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-carts-api/src/main/java/com/fh/controller/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-carts-api/src/main/java/com/fh/biz/ICartService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-carts-api/src/main/java/com/fh/biz/ICartServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-carts-api/src/main/java/com/fh/po/Cart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1128">
+          <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-web-8080/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-brand-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-common/src/main/java/com/fh/utils/HttpclientUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="54" column="42" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-product-api/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-type-api/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="63" lean-forward="true" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-brand-api/src/main/java/com/fh/biz/brand/IBrandService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-brand-api/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-product-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-login-api/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-carts-api/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-brand-api/src/main/java/com/fh/po/brand/Brand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-brand-api/src/main/java/com/fh/biz/brand/IBrandServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-brand-api/src/main/java/com/fh/vo/BrandVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-web-8080/src/main/webapp/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="91" column="18" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30229884" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>shop-web-8080:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30229884" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (shop-brand-api)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30229884" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30229884" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30229884" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>shop-brand-api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30229884" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30229884" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$/shop-web-8080" />
+    <option value="clean package" />
+  </component>
+</project>
